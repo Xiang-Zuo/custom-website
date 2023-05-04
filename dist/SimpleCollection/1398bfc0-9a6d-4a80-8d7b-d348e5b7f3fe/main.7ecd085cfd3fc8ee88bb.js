@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuilder=self.webpackChunkbuilder||[]).push([[873],{873:(e,l,s)=>{s.r(l),s.d(l,{default:()=>o});var t=s(966),r=s.n(t);const o=function(e){return console.log("Congrats, the setup is successful!"),console.log("Props received are: ",e),r().createElement("p",{className:"text-lg text-gray-700 font-bold px-4 py-2 bg-gray-100"},"Hello World")}}}]);
